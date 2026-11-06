@@ -1,3 +1,6 @@
+Here is the raw Markdown code formatted in a code block so you can easily copy and paste it directly into your `README.md` file:
+
+```markdown
 <div align="center">
 
 <!-- ANIMATED ULTRA-GRAPHIC HEADER -->
@@ -45,3 +48,42 @@
   "passions": ["Algorithmic Problem Solving", "Building Production-Grade Apps"],
   "status": "Seeking High-Impact Software Engineering Roles & Collabs"
 }
+
+```
+
+---
+
+## 🛠️ Tech Stack & Cybernetic Arsenal
+
+### **Languages & Core**
+
+### **Frontend & Frameworks**
+
+### **Backend & Databases**
+
+### **Tools & DevOps**
+
+---
+
+## 💎 Featured Portfolio Showcase
+
+| Project | Tech Stack | Highlights | Links |
+| --- | --- | --- | --- |
+| 🚀 **Project Alpha** | `React` `Node.js` `MongoDB` | Real-time collaborative platform built with WebSockets. | [Code](https://github.com/krishna98) • [Demo](https://www.google.com/search?q=%23) |
+| ⚡ **Algorithmic Vault** | `C++` `Python` `DSA` | Optimized solutions for 500+ CP problems with time complexity analysis. | [Code](https://github.com/krishna98) • [Repo](https://www.google.com/search?q=%23) |
+| 🌐 **Modern Dev Suite** | `Next.js` `Tailwind` `TypeScript` | Responsive developer portfolio dashboard with custom interactive UI components. | [Code](https://github.com/krishna98) • [Live](https://www.google.com/search?q=%23) |
+
+---
+
+## 📊 Cyber Stats & GitHub Metrics
+
+---
+
+## 🏆 Competitive Programming Metrics
+
+| Platform | Handle | Badges / Stats |
+| --- | --- | --- |
+| **LeetCode** | [`@krishnaYadav99`](https://leetcode.com/u/krishnaYadav99/) |  |
+| **Codeforces** | [`@krishna98`](https://codeforces.com/profile/krishna98) |  |
+
+---
